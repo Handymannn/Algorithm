@@ -1,2 +1,2 @@
-#All algorithm which I usually use<br>
-How algorithms work when optimize in machine learning model
+#All algorithmห which I usually use<br>
+How algorithm works when optimize in machine learning model 
