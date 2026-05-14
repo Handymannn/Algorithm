@@ -1,2 +1,2 @@
-# Gradient descent
-How gradient descent work when optimize the linear regression model
+#All algorithm which I usually use
+How algorithms work when optimize in machine learning model
